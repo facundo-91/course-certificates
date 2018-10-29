@@ -8,3 +8,6 @@ Certificates from courses that I have earned
 
 ### freeCodeCamp
  * Responsive Web Design
+ 
+### Udemy
+ * Pre-Programming: Everything you need to know before you code
