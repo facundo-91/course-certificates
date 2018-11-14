@@ -5,6 +5,7 @@ Certificates from courses that I have earned
  * HTML Fundamentals
  * CSS Fundamentals
  * JavaScript Tutorial
+ * Java Tutorial
 
 ### freeCodeCamp
  * Responsive Web Design
